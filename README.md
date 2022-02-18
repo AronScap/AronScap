@@ -15,6 +15,14 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AronScap)]           [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aron-scapinello-selhorst-62b905200/)]
 
+
+
+
+<p>&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=AronScap&show_icons=true&locale=en" alt="AronScap" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AronScap&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - Thanks for visiting.
 
 - Enjoy it!! o/
