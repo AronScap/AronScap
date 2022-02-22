@@ -20,10 +20,10 @@
 <!-- 
 <p>&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=AronScap&show_icons=true&locale=en" alt="AronScap" /></p>
 
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AronScap&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
--->
 - Thanks for visiting.
 
 - Enjoy it!! o/
